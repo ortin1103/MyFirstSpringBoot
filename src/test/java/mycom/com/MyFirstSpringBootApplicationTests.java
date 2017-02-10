@@ -11,9 +11,6 @@ public class MyFirstSpringBootApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
-
-
 	}
 
 }
